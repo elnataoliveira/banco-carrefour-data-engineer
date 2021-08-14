@@ -1,3 +1,4 @@
+![logo dio](https://github.com/elnataoliveira/dio-desafio-dataproc/blob/main/DIO.png)
 # dio-desafio-dataproc
 
 ## BootCamp DIO - Data Engineer Carrefour
