@@ -1,6 +1,5 @@
-```default
 <img src="https://github.com/elnataoliveira/dio-desafio-dataproc/blob/main/DIO.png" alt="logo DIO" width="250"/>
-```
+
 # dio-desafio-dataproc
 
 ## BootCamp DIO - Data Engineer Carrefour
