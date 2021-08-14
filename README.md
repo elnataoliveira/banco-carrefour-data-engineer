@@ -1,11 +1,11 @@
 <img src="https://github.com/elnataoliveira/dio-desafio-dataproc/blob/main/DIO.png" alt="logo DIO" width="250"/>
 
 ## BootCamp DIO - Data Engineer Carrefour
-### dio-desafio-dataproc
-### Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud
-#### Dez palavras que mais aparecem no [*livro*](https://github.com/elnataoliveira/dio-desafio-dataproc/blob/main/livro.txt): [*resultado*](https://github.com/elnataoliveira/dio-desafio-dataproc/blob/main/resultado.txt)
+### Dio-desafio-dataproc
+#### Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud
+##### Dez palavras que mais aparecem no [*livro*](https://github.com/elnataoliveira/dio-desafio-dataproc/blob/main/livro.txt): [*resultado*](https://github.com/elnataoliveira/dio-desafio-dataproc/blob/main/resultado.txt)
 
-#### ETAPAS:
+##### ETAPAS:
   - criar um bucket no cloud storage
  - criar um cluster hadoop com dataproc
  - realizar ingestão dos dados no bucket com cloud shell
